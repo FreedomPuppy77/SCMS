@@ -54,7 +54,7 @@ The Speech Contest Management System is a C++ application designed to manage a s
 
 This project is open source and follows the MIT License. You are free to use, modify, and distribute this project, but please retain the copyright information of the original author.
 
-## Contributions
+
 
  
 
